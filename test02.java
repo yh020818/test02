@@ -6,4 +6,5 @@ public class test02 {
         private String dd;
         private String yj;
         private String zk;
+        private String yh
 }
