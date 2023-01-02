@@ -1,5 +1,8 @@
 public class test {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
+        private String name;
+        private String age;
+        private String  qq;
+        private String dd;
+        private String yh;
+
 }
