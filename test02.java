@@ -5,4 +5,5 @@ public class test02 {
         private String  qq;
         private String dd;
         private String yh;
+        private String yj;
 }
