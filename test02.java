@@ -3,5 +3,5 @@ public class test02 {
         private String age;
         private String  qq;
         private String dd;
-        private String aaaaaaaaaaaaaaaaaaaaaaaaaaaa;
+        private String bbbbbbbbbbbbbbbbbbbbbbb;
 }
